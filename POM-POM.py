@@ -411,7 +411,7 @@ class Main:
 		os.system("clear")
 		print(logo)
 		print("\n╔═════════════════════════════════════════════════════════════╗")
-		print("║                  \033[1;32m─━㋱ASSALAMUALAIKUM㋱━─ \33[m ")         																					             ║")
+		print("║                  ─━㋱ASSALAMUALAIKUM㋱━─         																					             ║")
 		print("╚══════════════════════════════════════════════════════════════╝")
 		print("\033[1;32m [1] Fast You Like Page")
 		print("\033[1;33m [2] Exit")
